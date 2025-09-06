@@ -8,7 +8,7 @@ It also evaluates model performance with **MAE, MSE, RMSE, and R² metrics** and
 ## 📌 Demo
 Here’s a quick demo of the project in action:
 
-![Demo](https://github.com/prajwalsapkal/study-score-predictor/blob/main/ml%20gif.gif))
+![Demo](https://github.com/prajwalsapkal/study-score-predictor/blob/main/ml%20gif.gif)
 
 ---
 
@@ -29,13 +29,12 @@ Here’s a quick demo of the project in action:
 ## 📷 Output Visualizations
 
 ### 1️⃣ Distribution of Final Exam Score
-![Distribution of final exam score](https://github.com/prajwalsapkal/study-score-predictor/blob/main/Distribution%20of%20final%20exam%20score.png))
+![Distribution of final exam score](https://github.com/prajwalsapkal/study-score-predictor/blob/main/Distribution%20of%20final%20exam%20score.png)
 
 ### 2️⃣ Model Prediction vs Actual Prediction
-![Model prediction vs actual](https://github.com/prajwalsapkal/study-score-predictor/blob/main/Model%20predictioin%20VS%20actual%20prediction.png))
+![Model prediction vs actual](https://github.com/prajwalsapkal/study-score-predictor/blob/main/Model%20predictioin%20VS%20actual%20prediction.png)
 
 ### 3️⃣ Metrics (MAE, MSE, RMSE, R²)
 ![Metrics](https://github.com/prajwalsapkal/study-score-predictor/blob/main/MAE%2CMSE%2CR2%2CRMSE.png)
 
 ---
-
